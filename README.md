@@ -30,7 +30,7 @@ This is a public API that returns basic information in JSON format.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Staneering/HNG12ApiProjectRepo.git
+   git clone https://github.com/Staneering/HNG12Stage0.git
    cd HNG12ApiProjectRepo
    ```
 

@@ -150,14 +150,14 @@ You can test the API using a web browser, curl, or a tool like Postman.
 #### Using curl
 
 ```bash
-curl https://public-api-task-staneering-ogochukwu-stanley-ikegbos-projects.vercel.app/
+curl https://public-api-task.vercel.app/
 ```
 
 #### Using Postman
 
 1. Open Postman.
 2. Create a new GET request.
-3. Enter the URL: `https://public-api-task-staneering-ogochukwu-stanley-ikegbos-projects.vercel.app/`.
+3. Enter the URL: `https://public-api-task.vercel.app/`.
 4. Send the request.
 5. You should see a response similar to the example response above.
 

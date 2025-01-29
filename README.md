@@ -16,7 +16,7 @@ This is a public API that returns basic information in JSON format.
 {
   "email": "stacymacbrains@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/Staneering/HNG12ApiProjectRepo.git"
+  "github_url": "https://github.com/Staneering/HNG12Stage0"
 }
 ```
 

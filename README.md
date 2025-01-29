@@ -32,7 +32,7 @@ This API is intended for educational purposes and as a demonstration of how to b
 
 ### How to Access
 
-The API is deployed and publicly accessible at: [My Vercel Url](https://public-api-task-staneering-ogochukwu-stanley-ikegbos-projects.vercel.app/)
+The API is deployed and publicly accessible at: [My Vercel Url](https://public-api-task.vercel.app/)
 
 ### Example Response
 
@@ -86,7 +86,7 @@ To get started with this project, follow the setup instructions provided below t
 
 ## Deployment
 
-The API is deployed at: [My Vercel Url](https://public-api-task-staneering-ogochukwu-stanley-ikegbos-projects.vercel.app/)
+The API is deployed at: [My Vercel Url](https://public-api-task.vercel.app/)
 
 ### Deploying to Vercel
 

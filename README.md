@@ -40,7 +40,7 @@ The API is deployed and publicly accessible at: [My Vercel Url](https://public-a
 {
   "email": "stacymacbrains@gmail.com",
   "current_datetime": "2025-01-30T09:30:00Z",
-  "github_url": "https://github.com/Staneering/HNG12-Stage0-Public-API"
+  "github_url": "https://github.com/Staneering/HNGx-stage0-public-api"
 }
 ```
 
@@ -63,8 +63,8 @@ To get started with this project, follow the setup instructions provided below t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Staneering/HNG12-Stage0-Public-API.git
-   cd HNG12Api-Stage0-Public-API
+   git clone https://github.com/Staneering/hngx-stage0-public-api.git
+   cd hngx-stage0-public-api
    ```
 
 2. Install dependencies:
